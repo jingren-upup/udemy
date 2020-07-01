@@ -13,7 +13,7 @@ public class main {
         System.out.println("one.imaginary= " + one.getImaginary());
         number.subtract(one);
         System.out.println("number.real= " + number.getReal());
-        System.out.println("number.imaginary= " + number.getImaginary());
+//        System.out.println("number.imaginary= " + number.getImaginary());//123456
 
     }
 
