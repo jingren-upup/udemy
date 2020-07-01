@@ -1,5 +1,6 @@
 package t33;
-
+//* 仅仅作为测试而已
+//
 public class Floor {
     private double width;
     private double length;
@@ -9,7 +10,8 @@ public class Floor {
         else this.width = width;
 
         if(length < 0) this.length = 0;
-        else this.length = length;
+        else this.length = length;//wdnmd123456
+
     }
 
     public double getArea() {
